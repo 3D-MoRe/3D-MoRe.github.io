@@ -1,8 +1,8 @@
-# Scale3DUR: scaling data generation for 3D understanding and reasoning
+# 3D-MoRe: Unified Modal-Contextual Reasoning for Embodied Question Answering
 
-This is the repository that contains source code for the [Scale3DUR project page](https://github.com/Scale3DUR.github.io/).
+This is the repository that contains source code for the [3D-MoRe project page](https://3d-more.github.io).
 
-If you find Scale3DUR useful for your work, please consider starring ⭐ our [github](https://github.com/gaohan-cmd/Scale3DUR) page and citing:
+If you find Scale3DUR useful for your work, please consider starring ⭐ our [github](https://github.com/gaohan-cmd/3D-MoRe) page and citing:
 
 ```
 
